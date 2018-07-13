@@ -1,2 +1,2 @@
-# blog
+# kharit blog
 Personal blog
