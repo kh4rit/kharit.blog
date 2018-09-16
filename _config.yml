@@ -1,3 +1,2 @@
 theme: jekyll-theme-hacker
 url: "https://blog.kharit.xyz" # the base hostname & protocol
-permalink: /:categories/:title
