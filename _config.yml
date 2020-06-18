@@ -1,3 +1,6 @@
 theme: jekyll-theme-hacker
 url: "https://blog.kharit.xyz" # the base hostname & protocol
 permalink: /:categories/:year/:title
+
+# Google Analytics
+google_analytics: UA-45730869-7
