@@ -1,14 +1,21 @@
-author:
-  name: Vslow
-  email: vasiliy.kharitonov@icloud.com
+site:
+  author:
+    name: Vasiliy Kharitonov
+    email: "vasiliy.kharitonov@icloud.com"
 minima:
   skin: dark
   social_links:
     twitter: kh4rit
     github: Vslow
+
 theme: minima
+
 url: "https://blog.kharit.xyz" # the base hostname & protocol
 permalink: /:categories/:year/:title
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Google Analytics
 google_analytics: UA-45730869-7

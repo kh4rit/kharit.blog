@@ -38,4 +38,5 @@ I plan the following format:
 - Video is split horisontally in 2 parts: my facecam and facecam for my guest. Sometimes I will switch to
   screenshare to show some representations of what we are currently discussing (e.g. SAP webpage with 
   release notes).
-- Less than hour long.
+- Less than hour long. I believe the podcast should end as soon as we are out of topics to discuss or at
+  one hour mark.
