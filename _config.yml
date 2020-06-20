@@ -9,6 +9,7 @@ minima:
     github: Vslow
 
 theme: minima
+remote_theme: jekyll/minima
 
 url: "https://blog.kharit.xyz" # the base hostname & protocol
 permalink: /:categories/:year/:title
@@ -16,6 +17,7 @@ permalink: /:categories/:year/:title
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Google Analytics
 google_analytics: UA-45730869-7
