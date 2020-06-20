@@ -1,4 +1,4 @@
-theme: jekyll-theme-minima
+theme: minima
 minima:
         skin: dark
 url: "https://blog.kharit.xyz" # the base hostname & protocol
