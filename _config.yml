@@ -1,6 +1,12 @@
-theme: minima
+author:
+  name: Vslow
+  email: vasiliy.kharitonov@icloud.com
 minima:
-        skin: dark
+  skin: dark
+  social_links:
+    twitter: kh4rit
+    github: Vslow
+theme: minima
 url: "https://blog.kharit.xyz" # the base hostname & protocol
 permalink: /:categories/:year/:title
 
