@@ -1,12 +1,14 @@
-site:
-  author:
-    name: Vasiliy Kharitonov
-    email: "vasiliy.kharitonov@icloud.com"
+author:
+  name: Vasiliy Kharitonov
+  email: "vasiliy.kharitonov@icloud.com"
+
 minima:
   skin: dark
   social_links:
     twitter: kh4rit
     github: Vslow
+    linkedin: kharit
+    telegram: Vslow
 
 # theme: minima
 remote_theme: jekyll/minima
