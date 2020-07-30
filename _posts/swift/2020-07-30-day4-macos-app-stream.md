@@ -10,4 +10,4 @@ You can find the livestream using the following link: [kh4rit on Twitch](https:/
 
 If you missed the stream, you can find an archived version below:
 
-<iframe width="100%" src="https://www.youtube.com/embed/KPTNxSG4iQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=740 height=416 src="https://www.youtube.com/embed/KPTNxSG4iQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
