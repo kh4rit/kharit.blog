@@ -8,4 +8,6 @@ tags: [swift, macos, xcode]
 
 You can find the stream using the following link: [kh4rit on Twitch](https://www.twitch.tv/kh4rit)
 
-If you missed the stream, you can find an archived video on YouTube using the following link [Programming my first macOS application within 2 weeks - Day 1](https://youtu.be/r-EIdaSSzUM)
+If you missed the stream, you can find an archived video on YouTube below:
+
+<iframe src="https://www.youtube.com/embed/r-EIdaSSzUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
