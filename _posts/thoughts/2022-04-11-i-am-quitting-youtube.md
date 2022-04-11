@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am leaving YouTube
+title: I am quitting YouTube
 author: Vasiliy
 categories: thoughts
 tags: [thoughts, mass-media, youtube]
