@@ -11,7 +11,12 @@ minima:
     linkedin: kharit
     telegram: kh4rit
 
+<<<<<<< HEAD
 theme: minima
+=======
+# theme: minima
+remote_theme: jekyll/minima
+>>>>>>> aaca9bbebcf08ca6466fbd985658d0dea6e80300
 
 url: "https://kharit.blog" # the base hostname & protocol
 permalink: /:categories/:year/:title
