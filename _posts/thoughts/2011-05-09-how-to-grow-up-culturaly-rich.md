@@ -12,7 +12,7 @@ tags: [thoughts, culture, upbringing, education]
 
 <!--Я не прочел множество книг на тему формирования личности, но кое-чем, как мне кажется, я могу с вами поделиться. Все основано лишь на личных наблюдениях и опыте.-->
 
-I didn't read a lot of books about personal development, but I think I can share some thoughts based on personal experience and observations.
+I didn't read a lot of books about human development, but I think I can share some thoughts based on personal experience and observations.
 
 <!-- Я нередко спорю с людьми насчет генов, среды, воспитания и прочих слов, которые, как многие думают, связаны с развитием человека. Многие (особенно теперешнее пожилое поколение) считают, что все дело в генах. Нет, это не правда. Гены дают лишь какие-то рамки, в которых развивается человек. Есть болезни, передающиеся от родителей к детям, возможно гены родителей влияют на какие-то технические характеристики мозга, я не знаю. Да это и неважно.-->
 
