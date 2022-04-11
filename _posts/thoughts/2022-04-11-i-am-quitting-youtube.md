@@ -8,6 +8,8 @@ tags: [thoughts, mass-media, youtube]
 
 I decided to try to stop watching YouTube (which I was quite fond of). I am trying to understand why.
 
+**Warning**: this article contains opinions.
+
 ## Younger me
 
 When I was younger I was very critical. I stopped watching TV as I didn't like political propaganda and ads. There are people who controlled what I consumed on TV. When I was watching it, I unconcsiously followed their agenda (good or bad). I came to conclusion this is not for me: I need to make my own choices, choose what news and shows I consume.
