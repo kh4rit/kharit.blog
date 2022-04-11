@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New article on SAPhow - How to compare customizing tables
-author: Vasiliy Kharitonov
+author: Vasiliy
 categories: sap
 tags: [sap, saphow, gui-basis]
 ---

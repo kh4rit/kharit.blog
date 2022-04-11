@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Swift video - Functions (006)
-author: Vasiliy Kharitonov
+author: Vasiliy
 categories: swift
 tags: [swift, terminal, vim]
 ---

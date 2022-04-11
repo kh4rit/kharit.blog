@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tune in for first day of macOS app development steam!
-author: Vasiliy Kharitonov
+author: Vasiliy
 categories: swift
 tags: [swift, macos, xcode]
 ---

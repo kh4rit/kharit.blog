@@ -1,5 +1,7 @@
+title: kharit.blog
+description: A personal blog
+
 author:
-  name: Vasiliy
   email: "vasiliy@kharit.xyz"
 
 minima:
@@ -10,7 +12,6 @@ minima:
     telegram: kh4rit
 
 theme: minima
-# remote_theme: jekyll/minima
 
 url: "https://kharit.blog" # the base hostname & protocol
 permalink: /:categories/:year/:title

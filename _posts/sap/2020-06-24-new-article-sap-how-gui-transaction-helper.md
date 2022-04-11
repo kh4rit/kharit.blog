@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New article on SAPhow - SAP GUI transaction helper (for SAP consultant)
-author: Vasiliy Kharitonov
+author: Vasiliy
 categories: sap
 tags: [sap, saphow, gui-user]
 ---

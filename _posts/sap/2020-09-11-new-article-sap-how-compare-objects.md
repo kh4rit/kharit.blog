@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New article on SAPhow - How to compare workbench objects?
-author: Vasiliy Kharitonov
+author: Vasiliy
 categories: sap
 tags: [sap, saphow, gui-user]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Livestreaming | Day 3 | programming my first macOS application
-author: Vasiliy Kharitonov
+author: Vasiliy
 categories: swift
 tags: [swift, macos, xcode]
 ---

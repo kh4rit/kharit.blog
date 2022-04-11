@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcing SAPhow podcast
-author: Vasiliy Kharitonov
+author: Vasiliy
 categories: sap
 tags: [sap, saphow, podcast]
 ---
