@@ -3,7 +3,7 @@ author:
   email: "vasiliy@kharit.xyz"
 
 minima:
-  skin: dark
+  skin: light
   social_links:
     twitter: kh4rit
     github: kh4rit
@@ -22,4 +22,4 @@ plugins:
   - jekyll-remote-theme
 
 # Google Analytics
-google_analytics: UA-45730869-7
+google_analytics: G-W5FTXWMXYB
