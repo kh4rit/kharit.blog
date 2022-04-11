@@ -6,9 +6,9 @@ minima:
   skin: dark
   social_links:
     twitter: kh4rit
-    github: Vslow
+    github: kh4rit
     linkedin: kharit
-    telegram: Vslow
+    telegram: kh4rit
 
 # theme: minima
 remote_theme: jekyll/minima
