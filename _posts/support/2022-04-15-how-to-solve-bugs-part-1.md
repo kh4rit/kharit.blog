@@ -8,7 +8,7 @@ tags: [support, development, testing]
 
 A framework for resolving issues you might encounter in a production
 environment. It should allow you to solve most of the bugs in a system or
-application. This is Part 1 of the series.
+application. This is the Part 1.
 
 ## Step 1. Listen to users
 
@@ -34,12 +34,12 @@ If it is not immediately obvious, try to collect more examples, good and bad,
 look for similarities between them.
 
 Try to map the information users provided about the bug with the data you have
-in the system. Does it align with each other?
+in the system. Does it match?
 
-Of course, as the prerequisite of this step you need some level of
-understanding of the solution. If you don't have it yet, read the corresponding
-conceptual and functional documentation or ask teammates to transfer the
-knowledge to you.
+Of course, as a prerequisite of this step you need some level of understanding
+of the solution. If you don't have it yet, read the corresponding conceptual
+and functional documentation or ask team members to transfer the knowledge to
+you.
 
 ## Step 3. Try to reproduce in the test landscape
 
@@ -47,14 +47,14 @@ It is easy to fix reproduceable issues. If you are able to reproduce, you can
 launch a debug session and understand what went wrong exactly.
 
 Sometimes you can't reproduce the issue in the test system. Or you can
-reproduce it, but only in a small number of cases. Those are the hardest ones
-to solve.
+reproduce it, but not reliably, only in a small number of cases. Those are the
+hardest ones to solve.
 
 ### Step 3.1. Debug
 
 If you were lucky to have a reproduceable bug, the next step would be to use
-debug environment to figure out what went wrong exactly. This is a kind of art
-on its own, so I won't be able to cover it within this article.
+debug environment to figure out what went wrong exactly. This deserves an
+article on its own, so I won't go into a lot of details here.
 
 Some general guidelines:
 - **Don't assume impossible**. It is always better to check to be completely sure.
