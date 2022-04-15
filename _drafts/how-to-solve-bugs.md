@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to solve bugs?
+title: How to solve bugs? Part 1
 author: Vasiliy
 categories: support
 tags: [support, development, testing]
@@ -8,7 +8,7 @@ tags: [support, development, testing]
 
 A framework for resolving issues you might encounter in a production
 environment. It should allow you to solve most of the bugs in a system or
-application.
+application. This is Part 1 of the series.
 
 ## Step 1. Listen to users
 
@@ -52,24 +52,26 @@ to solve.
 
 ### Step 3.1. Debug
 
-If you were lucky to a reproduceable bug, the next step would be to use debug
-environment to figure out what went wrong exactly. This is a kind of art on its
-own, so I will not cover be able to cover it within this article.
+If you were lucky to have a reproduceable bug, the next step would be to use
+debug environment to figure out what went wrong exactly. This is a kind of art
+on its own, so I won't be able to cover it within this article.
 
 Some general guidelines:
+- **Don't assume impossible**. It is always better to check to be completely sure.
+- **Isolate the problem**. Split the program in 2, check which part causes it. Then
+  split again and again. Eventually you should find a part that is causing the
+  problem.
+- **Use specialized software**. It might be tempting to just print some strings to
+  a console and it even works most of the times. However, investing your time
+  to learn debugging software is always better in long-term.
+- **Don't dismiss a code that is not yours**. Pointing fingers will not help to
+  solve the problem. Debugging someone else's code will.
+- **Don't dismiss your own code either**. It is much more likely to find a bug in
+  your own code, than in a library that is used by thousands of people.
+- **Make notes**. When you debug a big program writing a note can help you to
+  understand it better and faster.
+- [**Talk to the duck**](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
+  Articulating a problem to someone else or even to an imaginary person like a
+  rubber duck can help you solve the problem.
 
-
-## Step 4. Look at the code
-
-This doesn't give results as often as previous steps and requires some skill to
-execute. However, for a skilled person it is easier than the next steps, so I
-usually do it before going further.
-
-What to look for:
-1. **Logical mistakes**. These are easy to make and sometimes hard to
-   catch.
-	- `OR` instead of `AND`
-	- `=` instead of `!=`
-	- "Is initial instead" of "is not initial"
-2. **Edge cases**. What if you will receive an empty input? What if object is
-   locked or changed By another user or a previous action?
+To be continued...
