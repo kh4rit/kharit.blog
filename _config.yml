@@ -20,6 +20,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-scholar
 
 # Google Analytics
 google_analytics: G-W5FTXWMXYB
