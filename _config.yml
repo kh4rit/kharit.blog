@@ -21,6 +21,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-scholar
+  - jekyll-sitemap
 
 # Google Analytics
 google_analytics: G-W5FTXWMXYB
