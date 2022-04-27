@@ -9,4 +9,4 @@ gem "minima"
 gem "jekyll-remote-theme"
 gem "webrick"
 gem "jekyll-scholar"
-gem "jekyll-sitemap"
+# gem "jekyll-sitemap" # can't be used with GitHub Pages

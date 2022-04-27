@@ -12,10 +12,12 @@ This post is a part of series [The Pragmatic Consultant](/tags/the-pragmatic-con
 
 **In the core of good design is the ETC (Easier To Change) principle.**
 
-<!-- citations below are done with [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) -->
-{% quote the-pragmatic-programmer %}
-Good Design Is Easier to Change Than Bad Design
-{% endquote %}
+<!-- citations below were done with
+[jekyll-scholar](https://github.com/inukshuk/jekyll-scholar), but it is not
+working with GitHub Pages, so I removed it -->
+> Good Design Is Easier to Change Than Bad Design
+> 
+> [[1] (Thomas & Hunt, 2019)](#references)
 
 A great feature from SAP systems is that they are designed to be changed. In
 any software you can theoretically change the source code of the system, but a
@@ -76,4 +78,5 @@ Practice to find the right balance.
 
 References
 ----------
-{% bibliography --cited_in_order %}
+1. Thomas, D., & Hunt, A. (2019). *The Pragmatic Programmer, 20th Anniversary
+   Edition*. Addison Wesley.

@@ -21,7 +21,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-scholar
-  - jekyll-sitemap
+#  - jekyll-sitemap # can't be used with GitHub Pages
 
 # Google Analytics
 google_analytics: G-W5FTXWMXYB
