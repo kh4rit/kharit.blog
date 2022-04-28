@@ -17,11 +17,12 @@ minima:
     telegram: kh4rit
   skin: classic
   date_format: "%d %b %Y"
-  disqus:
-    shortname: kharit-blog
 
 url: "https://kharit.blog" # the base hostname & protocol
 permalink: /:categories/:year/:title
+
+disqus:
+  shortname: kharit-blog
 
 plugins:
   - jekyll-feed
