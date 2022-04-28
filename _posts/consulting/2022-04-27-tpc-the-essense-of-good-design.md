@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Essense of Good Design
+comments: yes
 author: Vasiliy
 categories: consulting
 tags: [the-pragmatic-consultant, consulting, design]

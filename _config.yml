@@ -4,14 +4,21 @@ description: A personal blog
 author:
   email: "vasiliy@kharit.xyz"
 
+header_pages:
+  - about.md
+
+theme: minima
+
 minima:
   social_links:
     twitter: kh4rit
     github: kh4rit
     linkedin: kharit
     telegram: kh4rit
-
-theme: minima
+  skin: classic
+  date_format: "%d %b %Y"
+  disqus:
+    shortname: kharit-blog
 
 url: "https://kharit.blog" # the base hostname & protocol
 permalink: /:categories/:year/:title
