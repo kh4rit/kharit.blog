@@ -8,5 +8,5 @@ gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 gem "minima"
 gem "jekyll-remote-theme"
 gem "webrick"
-gem "jekyll-scholar"
-# gem "jekyll-sitemap" # can't be used with GitHub Pages
+# gem "jekyll-scholar" # can't be used with GitHub Pages
+gem "jekyll-sitemap"

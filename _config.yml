@@ -21,15 +21,16 @@ minima:
 url: "https://kharit.blog" # the base hostname & protocol
 permalink: /:categories/:year/:title
 
-disqus:
-  shortname: kharit-blog
+# Didn't like the comments but they are working
+# disqus:
+#   shortname: kharit-blog
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
-  - jekyll-scholar
-#  - jekyll-sitemap # can't be used with GitHub Pages
+  - jekyll-sitemap
+#  - jekyll-scholar # can't be used with GitHub Pages
 
 # Google Analytics
 google_analytics: G-W5FTXWMXYB
